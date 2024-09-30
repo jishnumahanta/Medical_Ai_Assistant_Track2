@@ -9,7 +9,7 @@
 - **Predefined Queries**: Added Support to Predefined Queries Allowing users to speed up the process of retrieving information, thereby improving efficiency and user satisfaction 
 - **Updated UI/UX**: Increases user engagement, satisfaction, and overall experience.
   
-### Resources
+### Initial Resources
 - [Medical AI Assistant Demo](https://github.com/abeuscher/vue-ai-example/tree/main?tab=readme-ov-file#medical-ai-assistant-demo)
 
 ## About the Challenge 🏥
