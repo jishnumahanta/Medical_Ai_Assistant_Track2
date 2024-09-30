@@ -1,4 +1,4 @@
-https://github.com/jishnumahanta/Medical_Ai_Assistant_Track2/blob/main/favicon.ico
+[https://github.com/jishnumahanta/Medical_Ai_Assistant_Track2/blob/main/favicon.ico](https://github.com/user-attachments/assets/3574af20-80ee-4c61-a4c8-94989ef8a892)
 # Patient Journey Challenge Track #2 Repository  🌟
 
 ### Powered by PathCheck Foundation in Collaboration with HIE of One 🤝
