@@ -1,5 +1,5 @@
 
-![inner-chat (3)](https://github.com/user-attachments/assets/d2f6a23b-5762-4504-80e6-3d4dab99fdbe)
+
 ![favicon - Copy](https://github.com/user-attachments/assets/d1080809-d762-476a-af82-fa09b2f1eb43)
 
 # Patient Journey Challenge Track #2 Repository  🌟
