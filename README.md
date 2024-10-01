@@ -13,7 +13,7 @@
 The **Patient Journey Challenge** focuses on innovating Medical AI Assistants (MAIA) while supporting patient-centered health records and GNAP-controlled access as open-source software. 
 
 ### Changes or Upgrades Made: 
-- **LLM Used - Mistral**:
+- **LLM Used - Mistral**: 
   - Using **Mistral**, specifically **Mistral-Small-Latest** for its optimized performance.
   - **Efficiency**: Maintains reliable performance with lower computational resources.
   - **Cost-Effective**: Reduces operational costs due to its efficient resource usage.
