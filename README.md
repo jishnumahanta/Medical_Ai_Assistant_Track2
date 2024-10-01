@@ -38,6 +38,6 @@ The **Patient Journey Challenge** focuses on innovating Medical AI Assistants (M
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
 
 ### YouTube Demo Link 📹
-- [Watch the Demo](#) 🌐
+- [Watch the Demo](https://youtu.be/QtknbMKsiiE) 🌐
 
 This repository has been submitted as part of the Patient Journey Challenge for judging. I look forward to receiving feedback and suggestions from the judges to help improve patient journeys and healthcare outcomes.
