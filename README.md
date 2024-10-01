@@ -31,7 +31,7 @@ The **Patient Journey Challenge** focuses on innovating Medical AI Assistants (M
   
 ### Initial Resources 🔄
 - [Medical AI Assistant Demo](https://github.com/abeuscher/vue-ai-example/tree/main?tab=readme-ov-file#medical-ai-assistant-demo)
-### **[MAIA]([https://github.com/abeuscher/vue-ai-example/tree/main?tab=readme-ov-file#medical-ai-assistant-demo](https://medicalintel.netlify.app))** using this repo
+### **[MAIA](https://medicalintel.netlify.app)** using this repo
 
 ## License 📄
 
